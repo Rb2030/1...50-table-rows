@@ -1,2 +1,2 @@
-# Weather-App
-Creating a weather app in Swift
+# 1..50 Table rows
+Practising with tables
